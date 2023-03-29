@@ -1,0 +1,20 @@
+{
+  "name": "zuii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start start-server --prefix server",
+    "build": "npm run build --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithsathya/zuii.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewithsathya/zuii/issues"
+  },
+  "homepage": "https://github.com/codewithsathya/zuii#readme"
+}
